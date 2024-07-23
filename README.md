@@ -1,0 +1,1 @@
+I'll be using this repository to create a simple website using HTML to start with (to practice), and then implementing CSS
